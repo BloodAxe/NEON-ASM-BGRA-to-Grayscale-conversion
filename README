@@ -2,8 +2,8 @@ A short example for the BGRA to Grayscale Image conversion on an ARM (iPhone / i
 
 Source for the neon_convert and neon_asm_convert functions from Khvedchenya Eugene @ http://computer-vision-talks.com:
 
-http://computer-vision-talks.com/2011/02/A-VERY-FAST-BGRA-TO-GRAYSCALE-CONVERSION-ON-IPHONE/#COMMENT-127
+http://computer-vision-talks.com/2011-02-08-a-very-fast-bgra-to-grayscale-conversion-on-iphone/
 
 Source for the FPS calculation:
 
-http://www.hatzlaha.co.il/150842/FAST%2DCorner%2DV2
+http://www.hatzlaha.co.il/150842/FAST%2DCorner%2DV2 (link isn't workign any more, kept to credit author).
